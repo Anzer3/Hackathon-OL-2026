@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme static {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  /* Hlavní barva – černá a bílá se žlutými akcenty */
+  --color-brand-50: #fffbe6;
+  --color-brand-100: #fff3b0;
+  --color-brand-200: #ffe66d;
+  --color-brand-500: #fcc419;
+  --color-brand-600: #e0a800;
+  --color-brand-700: #8a6500;
+
+  /* Barvy grafů */
+  --color-chart-base: #fcc419;
+  --color-chart-men: #111111;
+  --color-chart-women: #fcc419;
+  --color-chart-band: #fff3b0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+/* Posuvník (input type=range) */
+input[type="range"] {
+  accent-color: var(--color-brand-600);
+}
+
+/* MapLibre – sladění s vizuálem aplikace */
+.maplibregl-ctrl-group {
+  @apply rounded-sm shadow-none;
+}
+.maplibregl-ctrl-attrib {
+  @apply text-[10px];
+}
+
+/* Tlačítka + / − pro zoom mapy: naležato */
+.maplibregl-ctrl-group:has(.maplibregl-ctrl-zoom-in) {
+  display: flex;
+  flex-direction: row;
+}
+.maplibregl-ctrl-group:has(.maplibregl-ctrl-zoom-in) button + button {
+  border-top: 0;
+  border-left: 1px solid #ddd;
+}

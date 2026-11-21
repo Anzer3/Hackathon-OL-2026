@@ -1,0 +1,2007 @@
+[
+ {
+  "kod": "506761",
+  "nazev": "Alojzov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552356",
+  "nazev": "Babice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589268",
+  "nazev": "Bedihošť",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "523917",
+  "nazev": "Bělá pod Pradědem",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "500526",
+  "nazev": "Bělkovice-Lašťany",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "512231",
+  "nazev": "Bělotín",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "512281",
+  "nazev": "Beňov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "524891",
+  "nazev": "Bernartice",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "512401",
+  "nazev": "Bezuchov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "500623",
+  "nazev": "Bílá Lhota",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "525227",
+  "nazev": "Bílá Voda",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "589276",
+  "nazev": "Bílovice-Lutotín",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552062",
+  "nazev": "Bílsko",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589284",
+  "nazev": "Biskupice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "500801",
+  "nazev": "Blatec",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "525588",
+  "nazev": "Bludov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "525804",
+  "nazev": "Bohdíkov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "500852",
+  "nazev": "Bohuňovice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589292",
+  "nazev": "Bohuslavice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "525880",
+  "nazev": "Bohuslavice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "569178",
+  "nazev": "Bohuslávky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "525979",
+  "nazev": "Bohutín",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "512532",
+  "nazev": "Bochoř",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589306",
+  "nazev": "Bousín",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "500861",
+  "nazev": "Bouzov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "526169",
+  "nazev": "Branná",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "569437",
+  "nazev": "Bratrušov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "530727",
+  "nazev": "Brníčko",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589314",
+  "nazev": "Brodek u Konice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589322",
+  "nazev": "Brodek u Prostějova",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "512800",
+  "nazev": "Brodek u Přerova",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589331",
+  "nazev": "Březsko",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589349",
+  "nazev": "Budětsko",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "512826",
+  "nazev": "Buk",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589357",
+  "nazev": "Buková",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552402",
+  "nazev": "Bukovany",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "532894",
+  "nazev": "Bušín",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "500879",
+  "nazev": "Bystročice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "547026",
+  "nazev": "Bystrovany",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "512877",
+  "nazev": "Býškovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "569135",
+  "nazev": "Císařov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "512982",
+  "nazev": "Citov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589365",
+  "nazev": "Čehovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552771",
+  "nazev": "Čechy",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589381",
+  "nazev": "Čechy pod Kosířem",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589390",
+  "nazev": "Čelčice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "513059",
+  "nazev": "Čelechovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589403",
+  "nazev": "Čelechovice na Hané",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "533491",
+  "nazev": "Černá Voda",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "513067",
+  "nazev": "Černotín",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "552186",
+  "nazev": "Červenka",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "569356",
+  "nazev": "Česká Ves",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "552445",
+  "nazev": "Daskabát",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589420",
+  "nazev": "Dětkovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "501476",
+  "nazev": "Dlouhá Loučka",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "533688",
+  "nazev": "Dlouhomilov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "513105",
+  "nazev": "Dobrčice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589438",
+  "nazev": "Dobrochov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589446",
+  "nazev": "Dobromilice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "501646",
+  "nazev": "Dolany",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "569259",
+  "nazev": "Dolní Nětčice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "553379",
+  "nazev": "Dolní Studénky",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "552984",
+  "nazev": "Dolní Těšice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "513199",
+  "nazev": "Dolní Újezd",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "568392",
+  "nazev": "Doloplazy",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589454",
+  "nazev": "Doloplazy",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "545279",
+  "nazev": "Domašov nad Bystřicí",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552313",
+  "nazev": "Domašov u Šternberka",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "513211",
+  "nazev": "Domaželice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "501751",
+  "nazev": "Drahanovice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589462",
+  "nazev": "Drahany",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "570141",
+  "nazev": "Drozdov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "558419",
+  "nazev": "Držovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589489",
+  "nazev": "Dřevnovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "513229",
+  "nazev": "Dřevohostice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "501794",
+  "nazev": "Dub nad Moravou",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552071",
+  "nazev": "Dubčany",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "534927",
+  "nazev": "Dubicko",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589497",
+  "nazev": "Dzbel",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "501841",
+  "nazev": "Grygov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "569194",
+  "nazev": "Grymov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "549967",
+  "nazev": "Hačky",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552178",
+  "nazev": "Haňovice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "535532",
+  "nazev": "Hanušovice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "552330",
+  "nazev": "Hlásnice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "569267",
+  "nazev": "Hlinsko",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "502146",
+  "nazev": "Hlubočky",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589501",
+  "nazev": "Hluchov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552020",
+  "nazev": "Hlušovice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "502235",
+  "nazev": "Hněvotín",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "502405",
+  "nazev": "Hnojice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "502545",
+  "nazev": "Horka nad Moravou",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "569798",
+  "nazev": "Horní Loděnice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "513491",
+  "nazev": "Horní Moštěnice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "569275",
+  "nazev": "Horní Nětčice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "535770",
+  "nazev": "Horní Studénky",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589519",
+  "nazev": "Horní Štěpánov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552968",
+  "nazev": "Horní Těšice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "569542",
+  "nazev": "Horní Újezd",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "535885",
+  "nazev": "Hoštejn",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "553387",
+  "nazev": "Hraběšice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "536091",
+  "nazev": "Hrabišín",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "553221",
+  "nazev": "Hrabová",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "513636",
+  "nazev": "Hrabůvka",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "513733",
+  "nazev": "Hradčany",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589527",
+  "nazev": "Hradčany-Kobeřice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "553301",
+  "nazev": "Hradec-Nová Ves",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "513750",
+  "nazev": "Hranice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "546976",
+  "nazev": "Hraničné Petrovice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589535",
+  "nazev": "Hrdibořice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589543",
+  "nazev": "Hrubčice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "543543",
+  "nazev": "Hruška",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "513768",
+  "nazev": "Hustopeče nad Bečvou",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "597414",
+  "nazev": "Huzová",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589560",
+  "nazev": "Hvozd",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "536113",
+  "nazev": "Hynčina",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "568872",
+  "nazev": "Charváty",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "502839",
+  "nazev": "Cholina",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "569305",
+  "nazev": "Chromeč",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589578",
+  "nazev": "Ivaň",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "553344",
+  "nazev": "Jakubovice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "553212",
+  "nazev": "Janoušov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "536148",
+  "nazev": "Javorník",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "536288",
+  "nazev": "Jedlí",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589586",
+  "nazev": "Jesenec",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "536385",
+  "nazev": "Jeseník",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "536393",
+  "nazev": "Jestřebí",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "556998",
+  "nazev": "Jezernice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "513873",
+  "nazev": "Jindřichov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "536521",
+  "nazev": "Jindřichov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "503142",
+  "nazev": "Jívová",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "536571",
+  "nazev": "Kamenná",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589594",
+  "nazev": "Kladky",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "569283",
+  "nazev": "Kladníky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589608",
+  "nazev": "Klenovice na Hané",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "514047",
+  "nazev": "Klokočí",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "536687",
+  "nazev": "Klopina",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589616",
+  "nazev": "Klopotovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "557218",
+  "nazev": "Kobylá nad Vidnavkou",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "514055",
+  "nazev": "Kojetín",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "514152",
+  "nazev": "Kokory",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "536733",
+  "nazev": "Kolšov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "547123",
+  "nazev": "Komárov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589624",
+  "nazev": "Konice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "553247",
+  "nazev": "Kopřivná",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "536814",
+  "nazev": "Kosov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589632",
+  "nazev": "Kostelec na Hané",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589641",
+  "nazev": "Koválovice-Osíčany",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "500135",
+  "nazev": "Kozlov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "503304",
+  "nazev": "Kožušany-Tážaly",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589659",
+  "nazev": "Kralice na Hané",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552437",
+  "nazev": "Krčmaň",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "569372",
+  "nazev": "Krchleby",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589667",
+  "nazev": "Krumsín",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "554901",
+  "nazev": "Křelov-Břuchotín",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "569143",
+  "nazev": "Křenovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "552780",
+  "nazev": "Křtomil",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589675",
+  "nazev": "Laškov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "514446",
+  "nazev": "Lazníčky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "514471",
+  "nazev": "Lazníky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "537284",
+  "nazev": "Lesnice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589683",
+  "nazev": "Lešany",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "537713",
+  "nazev": "Leština",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "514497",
+  "nazev": "Lhota",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "514527",
+  "nazev": "Lhotka",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "539961",
+  "nazev": "Libina",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "569003",
+  "nazev": "Liboš",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552305",
+  "nazev": "Lipina",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "540005",
+  "nazev": "Lipinka",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "514705",
+  "nazev": "Lipník nad Bečvou",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589691",
+  "nazev": "Lipová",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "514772",
+  "nazev": "Lipová",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "540030",
+  "nazev": "Lipová-lázně",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "514802",
+  "nazev": "Líšná",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "540161",
+  "nazev": "Líšnice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "503444",
+  "nazev": "Litovel",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "515191",
+  "nazev": "Lobodice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "540196",
+  "nazev": "Loštice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "552232",
+  "nazev": "Loučany",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552038",
+  "nazev": "Loučka",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "540226",
+  "nazev": "Loučná nad Desnou",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "552216",
+  "nazev": "Luběnice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "500151",
+  "nazev": "Luboměř pod Strážnou",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589705",
+  "nazev": "Ludmírov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "503622",
+  "nazev": "Luká",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "540234",
+  "nazev": "Lukavice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "503657",
+  "nazev": "Lutín",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "569844",
+  "nazev": "Lužice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "503738",
+  "nazev": "Majetín",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "540331",
+  "nazev": "Malá Morava",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589713",
+  "nazev": "Malé Hradisko",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "540366",
+  "nazev": "Maletín",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "515329",
+  "nazev": "Malhotice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "552372",
+  "nazev": "Medlov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "568911",
+  "nazev": "Měrotín",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552909",
+  "nazev": "Měrovice nad Hanou",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "500160",
+  "nazev": "Město Libavá",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "540382",
+  "nazev": "Mikulovice",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "515418",
+  "nazev": "Milenov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "515477",
+  "nazev": "Milotice nad Bečvou",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "569381",
+  "nazev": "Mírov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "504246",
+  "nazev": "Mladeč",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552348",
+  "nazev": "Mladějovice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "540471",
+  "nazev": "Mohelnice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "540480",
+  "nazev": "Moravičany",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "597678",
+  "nazev": "Moravský Beroun",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589721",
+  "nazev": "Mořice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589730",
+  "nazev": "Mostkovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "554944",
+  "nazev": "Mrsklesy",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "547093",
+  "nazev": "Mutkov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589748",
+  "nazev": "Myslejovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552810",
+  "nazev": "Nahošovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "504441",
+  "nazev": "Náklo",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "504505",
+  "nazev": "Náměšť na Hané",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "515787",
+  "nazev": "Nelešovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589756",
+  "nazev": "Němčice nad Hanou",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "553476",
+  "nazev": "Nemile",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589764",
+  "nazev": "Nezamyslice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589772",
+  "nazev": "Niva",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "597686",
+  "nazev": "Norberčany",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552381",
+  "nazev": "Nová Hradečná",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "540501",
+  "nazev": "Nový Malín",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589799",
+  "nazev": "Obědkovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589802",
+  "nazev": "Ohrozim",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589811",
+  "nazev": "Ochoz",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552259",
+  "nazev": "Olbramice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "515825",
+  "nazev": "Oldřichov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "500496",
+  "nazev": "Olomouc",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "540510",
+  "nazev": "Olšany",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589829",
+  "nazev": "Olšany u Prostějova",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552844",
+  "nazev": "Olšovec",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589837",
+  "nazev": "Ondratice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "516201",
+  "nazev": "Opatovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "553000",
+  "nazev": "Oplocany",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "516350",
+  "nazev": "Oprostovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "516619",
+  "nazev": "Osek nad Bečvou",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "540544",
+  "nazev": "Oskava",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "569330",
+  "nazev": "Ostružná",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "589845",
+  "nazev": "Otaslavice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589853",
+  "nazev": "Otinoves",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "540595",
+  "nazev": "Palonín",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "516635",
+  "nazev": "Paršovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "516686",
+  "nazev": "Partutovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "504785",
+  "nazev": "Paseka",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "540609",
+  "nazev": "Pavlov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "557196",
+  "nazev": "Pavlovice u Kojetína",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "516694",
+  "nazev": "Pavlovice u Přerova",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589870",
+  "nazev": "Pěnčín",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "500020",
+  "nazev": "Petrov nad Desnou",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "540650",
+  "nazev": "Písařov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "540684",
+  "nazev": "Písečná",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "589888",
+  "nazev": "Pivín",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589896",
+  "nazev": "Plumlov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552160",
+  "nazev": "Pňovice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "516864",
+  "nazev": "Podolí",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "540731",
+  "nazev": "Police",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "516899",
+  "nazev": "Polkovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "516911",
+  "nazev": "Polom",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "549983",
+  "nazev": "Polomí",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "540773",
+  "nazev": "Postřelmov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "553352",
+  "nazev": "Postřelmůvek",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "517101",
+  "nazev": "Potštát",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517151",
+  "nazev": "Prosenice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589250",
+  "nazev": "Prostějov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589918",
+  "nazev": "Prostějovičky",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589926",
+  "nazev": "Protivanov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "517208",
+  "nazev": "Provodovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "552411",
+  "nazev": "Přáslavice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589934",
+  "nazev": "Přemyslovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "511382",
+  "nazev": "Přerov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517224",
+  "nazev": "Přestavlky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "505013",
+  "nazev": "Příkazy",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "589942",
+  "nazev": "Ptení",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "517275",
+  "nazev": "Radíkov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517321",
+  "nazev": "Radkova Lhota",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517437",
+  "nazev": "Radkovy",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517445",
+  "nazev": "Radotín",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517534",
+  "nazev": "Radslavice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517569",
+  "nazev": "Radvanice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "540854",
+  "nazev": "Rájec",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "517585",
+  "nazev": "Rakov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589951",
+  "nazev": "Raková u Konice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "589969",
+  "nazev": "Rakůvka",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "540862",
+  "nazev": "Rapotín",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "553395",
+  "nazev": "Rejchartice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "540871",
+  "nazev": "Rohle",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "517607",
+  "nazev": "Rokytnice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517615",
+  "nazev": "Rouské",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "540919",
+  "nazev": "Rovensko",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "589977",
+  "nazev": "Rozstání",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "540978",
+  "nazev": "Ruda nad Moravou",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "554103",
+  "nazev": "Řídeč",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "517666",
+  "nazev": "Říkovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "547077",
+  "nazev": "Samotišky",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "506770",
+  "nazev": "Seloutky",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "505081",
+  "nazev": "Senice na Hané",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552267",
+  "nazev": "Senička",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "517747",
+  "nazev": "Skalička",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "589993",
+  "nazev": "Skalka",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "553484",
+  "nazev": "Skorošice",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "552151",
+  "nazev": "Skrbeň",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "590002",
+  "nazev": "Skřípov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "505111",
+  "nazev": "Slatinice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "590011",
+  "nazev": "Slatinky",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552194",
+  "nazev": "Slavětín",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "590029",
+  "nazev": "Smržice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "517844",
+  "nazev": "Soběchleby",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517836",
+  "nazev": "Sobíšky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "540986",
+  "nazev": "Sobotín",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "590045",
+  "nazev": "Srbce",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "541036",
+  "nazev": "Stará Červená Voda",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "517887",
+  "nazev": "Stará Ves",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "541079",
+  "nazev": "Staré Město",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "590053",
+  "nazev": "Stařechovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "570281",
+  "nazev": "Stavenice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "590061",
+  "nazev": "Stínava",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "590070",
+  "nazev": "Stražisko",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "569054",
+  "nazev": "Strukov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "547018",
+  "nazev": "Střeň",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552887",
+  "nazev": "Stříbrnice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "517909",
+  "nazev": "Střítež nad Ludinou",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "541109",
+  "nazev": "Sudkov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "590088",
+  "nazev": "Suchdol",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "569771",
+  "nazev": "Suchonice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "541117",
+  "nazev": "Supíkovice",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "518026",
+  "nazev": "Sušice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "541125",
+  "nazev": "Svébohov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "552429",
+  "nazev": "Svésedlice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "552950",
+  "nazev": "Šišma",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "570117",
+  "nazev": "Šléglov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "570061",
+  "nazev": "Špičky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "552011",
+  "nazev": "Štarnov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "505161",
+  "nazev": "Štěpánov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "505188",
+  "nazev": "Šternberk",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "541168",
+  "nazev": "Štíty",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "590096",
+  "nazev": "Šubířov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "523704",
+  "nazev": "Šumperk",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "505218",
+  "nazev": "Šumvald",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "519031",
+  "nazev": "Teplice nad Bečvou",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "505269",
+  "nazev": "Těšetice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "590100",
+  "nazev": "Tištín",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "519146",
+  "nazev": "Tovačov",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "552089",
+  "nazev": "Tovéř",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "505293",
+  "nazev": "Troubelice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "519651",
+  "nazev": "Troubky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "505366",
+  "nazev": "Tršice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "553336",
+  "nazev": "Třeština",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "520047",
+  "nazev": "Tučín",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "552836",
+  "nazev": "Turovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "590118",
+  "nazev": "Tvorovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "570079",
+  "nazev": "Týn nad Bečvou",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "541214",
+  "nazev": "Uhelná",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "552879",
+  "nazev": "Uhřičice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "505501",
+  "nazev": "Újezd",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "505587",
+  "nazev": "Uničov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "590126",
+  "nazev": "Určice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "541222",
+  "nazev": "Úsov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "520306",
+  "nazev": "Ústí",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "552364",
+  "nazev": "Ústín",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "541249",
+  "nazev": "Vápenná",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "505609",
+  "nazev": "Velká Bystřice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "553468",
+  "nazev": "Velká Kraš",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "569453",
+  "nazev": "Velké Kunětice",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "541265",
+  "nazev": "Velké Losiny",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "505650",
+  "nazev": "Velký Týnec",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "505668",
+  "nazev": "Velký Újezd",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "554146",
+  "nazev": "Vernířovice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "552119",
+  "nazev": "Věrovany",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "520420",
+  "nazev": "Veselíčko",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "552755",
+  "nazev": "Věžky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "590134",
+  "nazev": "Víceměřice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "590142",
+  "nazev": "Vícov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "541303",
+  "nazev": "Vidnava",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "553191",
+  "nazev": "Vikantice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "569445",
+  "nazev": "Vikýřovice",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "568961",
+  "nazev": "Vilémov",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "544710",
+  "nazev": "Vincencov",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "590151",
+  "nazev": "Vitčice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "541346",
+  "nazev": "Vlčice",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "547433",
+  "nazev": "Vlkoš",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "590177",
+  "nazev": "Vranovice-Kelčice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "590185",
+  "nazev": "Vrbátky",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "590193",
+  "nazev": "Vrchoslavice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "590207",
+  "nazev": "Vřesovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "521531",
+  "nazev": "Všechovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "547450",
+  "nazev": "Výkleky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "570095",
+  "nazev": "Vyšehoří",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "590215",
+  "nazev": "Výšovice",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "547514",
+  "nazev": "Zábeštní Lhota",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "541354",
+  "nazev": "Zábřeh",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "522775",
+  "nazev": "Zámrsky",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "570338",
+  "nazev": "Zborov",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "590223",
+  "nazev": "Zdětín",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "597996",
+  "nazev": "Zlaté Hory",
+  "okres": "Jeseník"
+ },
+ {
+  "kod": "541478",
+  "nazev": "Zvole",
+  "okres": "Šumperk"
+ },
+ {
+  "kod": "523453",
+  "nazev": "Žákovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "523640",
+  "nazev": "Želatovice",
+  "okres": "Přerov"
+ },
+ {
+  "kod": "590240",
+  "nazev": "Želeč",
+  "okres": "Prostějov"
+ },
+ {
+  "kod": "552399",
+  "nazev": "Želechovice",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "505862",
+  "nazev": "Žerotín",
+  "okres": "Olomouc"
+ },
+ {
+  "kod": "541575",
+  "nazev": "Žulová",
+  "okres": "Jeseník"
+ }
+]

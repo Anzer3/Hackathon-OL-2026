@@ -1,0 +1,34 @@
+{
+  "name": "spot-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "souhrn": "node scripts/souhrn.mjs",
+    "predev": "node scripts/souhrn.mjs",
+    "dev": "next dev",
+    "prebuild": "node scripts/souhrn.mjs",
+    "build": "next build",
+    "start": "next start",
+    "preview": "next start"
+  },
+  "dependencies": {
+    "maplibre-gl": "^5.5.0",
+    "next": "^15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-is": "^19.1.0",
+    "react-map-gl": "^8.0.4",
+    "recharts": "^2.15.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.8.0"
+  },
+  "overrides": {
+    "react-is": "^19.1.0"
+  }
+}
