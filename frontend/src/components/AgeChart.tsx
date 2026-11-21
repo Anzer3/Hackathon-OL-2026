@@ -1,9 +1,14 @@
 "use client";
 
 import { formatNumber } from "@/lib/format";
-import type { VekovaSkupina } from "@/lib/types";
 
 export type Zobrazeni = "procenta" | "pocet";
+
+export type SkupinaGrafu = {
+  skupina: string;
+  /** Počet ve zvoleném roce */
+  pocet: number;
+};
 
 const pctFmt = new Intl.NumberFormat("cs-CZ", { maximumFractionDigits: 1, minimumFractionDigits: 1 });
 
@@ -15,7 +20,7 @@ export default function AgeChart({
   skupiny,
   zobrazeni,
 }: {
-  skupiny: VekovaSkupina[];
+  skupiny: SkupinaGrafu[];
   zobrazeni: Zobrazeni;
 }) {
   const celkem = skupiny.reduce((s, g) => s + g.pocet, 0);

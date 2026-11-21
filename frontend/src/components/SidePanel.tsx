@@ -156,7 +156,8 @@ export default function SidePanel({
 
           <div className="mt-4">
             {v ? (
-              <AgeChart skupiny={v.skupiny.map((g) => ({ skupina: g.popisek, pocet: g.rok }))} zobrazeni={zobrazeni} />
+              <AgeChart skupiny={v.skupiny.map((g) => ({ skupina: g.popisek, pocet: g.rok }))}
+                zobrazeni={zobrazeni} />
             ) : status.kind === "error" ? null : (
               <p className="border border-dashed border-slate-300 px-3 py-8 text-center text-xs text-slate-500">
                 Načítám data…

@@ -3,6 +3,7 @@
 import dynamic from "next/dynamic";
 import { useEffect, useMemo, useState } from "react";
 import SidePanel, { type LoadStatus } from "@/components/SidePanel";
+import DoporuceniView from "@/components/DoporuceniView";
 import GrafyView from "@/components/GrafyView";
 import NacitaniMapy from "@/components/NacitaniMapy";
 import Navigace, { type Zalozka } from "@/components/Navigace";
@@ -177,6 +178,15 @@ export default function Home() {
                 nazev={uzemi ? (obecPodleKodu.get(uzemi.obecKod)?.nazev ?? "…") : KRAJ.nazev}
                 rok={rok}
                 vypis={status.kind === "done" ? vypis : null}
+              />
+            </div>
+          )}
+          {zalozka === "doporuceni" && (
+            <div className="absolute inset-0 z-30 bg-white">
+              <DoporuceniView
+                nazev={uzemi ? (obecPodleKodu.get(uzemi.obecKod)?.nazev ?? "…") : KRAJ.nazev}
+                bezVyberu={uzemi === null}
+                data={status.kind === "done" ? data?.doporuceni : undefined}
               />
             </div>
           )}

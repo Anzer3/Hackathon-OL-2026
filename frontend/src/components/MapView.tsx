@@ -35,7 +35,7 @@ const MAP_STYLE_OFFLINE: StyleSpecification = {
 /** Jak dlouho čekat na podklad, než se použije záložní styl. */
 const MAP_STYLE_TIMEOUT_MS = 4000;
 /** Hranice, za které nejde mapu posunout: rozsah kraje (16,71–17,92 / 49,27–50,45) + rezerva. */
-const MAX_BOUNDS: [number, number, number, number] = [16.2, 48.95, 18.4, 50.75];
+const MAX_BOUNDS: [number, number, number, number] = [13.6, 47.0, 21.0, 52.6];
 const OBRYS = "#0f172a";
 
 /*
@@ -328,7 +328,7 @@ export default function MapView({
     }
   };
 
-  // Mapa se skryla (záložka „Další přehledy“) → zrušit hover a schovat tooltip s názvem obce
+  // Mapa se skryla (záložka „Grafy“) → zrušit hover a schovat tooltip s názvem obce
   useEffect(() => {
     if (aktivni) return;
     if (rafRef.current) cancelAnimationFrame(rafRef.current);
@@ -383,7 +383,7 @@ export default function MapView({
         mapStyle={styl}
         // Omezení pohybu: kraj + rezerva kolem něj, a nejmenší přiblížení
         maxBounds={MAX_BOUNDS}
-        minZoom={7}
+        minZoom={4.5}
         style={{ width: "100%", height: "100%" }}
         attributionControl={false}
         interactiveLayerIds={INTERAKTIVNI}

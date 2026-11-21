@@ -1,10 +1,11 @@
 "use client";
 
-export type Zalozka = "mapa" | "grafy";
+export type Zalozka = "mapa" | "grafy" | "doporuceni";
 
 const ZALOZKY: { id: Zalozka; nazev: string }[] = [
   { id: "mapa", nazev: "Mapa" },
-  { id: "grafy", nazev: "Další přehledy" },
+  { id: "grafy", nazev: "Grafy" },
+  { id: "doporuceni", nazev: "Doporučení" },
 ];
 
 /** Navigace pod horní lištou; vybraná záložka má nad sebou žlutý obdélníček. */

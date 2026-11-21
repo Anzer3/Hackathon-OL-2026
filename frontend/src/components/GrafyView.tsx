@@ -17,7 +17,7 @@ function Karta({ nadpis, popis, children }: { nadpis: string; popis?: string; ch
   );
 }
 
-/** Záložka „Další přehledy“: ostatní grafy vybraného území v širším rozložení vedle panelu. */
+/** Záložka „Grafy“: ostatní grafy vybraného území v širším rozložení vedle panelu. */
 export default function GrafyView({ nazev, rok, vypis }: { nazev: string; rok: number; vypis: Vypis | null }) {
   if (!vypis) {
     return <p className="p-8 text-sm text-slate-500">Načítám data…</p>;

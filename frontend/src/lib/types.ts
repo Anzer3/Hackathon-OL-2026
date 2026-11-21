@@ -3,6 +3,8 @@
  * Soubory leží v public/data a vyrábí je model v Pythonu.
  */
 
+import type { Doporuceni } from "@/types/doporuceni";
+
 /** Položka `data/obce.json`. Názvy nejsou unikátní → identifikátor je vždy `kod`. */
 export type ObecZaznam = {
   /** Kód obce ČSÚ, např. "505218" */
@@ -27,6 +29,8 @@ export type DataObce = ObecZaznam & {
     muzi: number[][];
     zeny: number[][];
   };
+  /** Doporučení pro sociální péči (nezávisí na roce). Jen u obcí – `kraj.json` ho nemá. */
+  doporuceni?: Doporuceni;
 };
 
 /** `data/prumerny-vek.json` (scripts/souhrn.mjs): průměrný věk obcí pro každý rok projekce. */
