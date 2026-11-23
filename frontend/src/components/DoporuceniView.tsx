@@ -32,7 +32,7 @@ const IKONA_ZDRAVI = (
 
 const SEKCE: { nadpis: string; klice: Klic[]; ikona: React.ReactNode }[] = [
   { nadpis: "Vzdělání", klice: ["ms", "zs"], ikona: IKONA_VZDELANI },
-  { nadpis: "Zdravotnictví a péče", klice: ["sen", "pldd", "pl"], ikona: IKONA_ZDRAVI },
+  { nadpis: "Zdravotnictví a péče", klice: ["pldd", "sen", "pl"], ikona: IKONA_ZDRAVI },
 ];
 
 /**

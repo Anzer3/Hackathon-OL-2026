@@ -4,7 +4,7 @@ import { MiniGraf } from "./MiniGraf";
 export const SEMAFOR: Record<Uroven, { barva: string; popis: string }> = {
   vyrazny_rust: { barva: "#d32f2f", popis: "Výrazný růst" },
   rust: { barva: "#f57c00", popis: "Růst" },
-  pokles: { barva: "#1976d2", popis: "Pokles" },
+  pokles: { barva: "#1976d2", popis: "Výrazný pokles" },
   ok: { barva: "#388e3c", popis: "Bez výrazné změny" },
 };
 
@@ -21,10 +21,7 @@ export function OblastRadek({ oblast: o }: { oblast: Oblast }) {
           <span className="inline-block h-3 w-3 shrink-0 rounded-full" style={{ background: s.barva }} aria-hidden />
         ) : (
           <svg width="14" height="14" viewBox="0 0 14 14" className="shrink-0" aria-hidden>
-            <path
-              d={o.uroven === "pokles" ? "M1 3h12L7 12z" : "M7 2l6 9H1z"}
-              fill={s.barva}
-            />
+            <path d={o.uroven === "pokles" ? "M1 3h12L7 12z" : "M7 2l6 9H1z"} fill={s.barva} />
           </svg>
         )}
         <h3 className="text-sm font-semibold text-slate-900">{o.nazev}</h3>

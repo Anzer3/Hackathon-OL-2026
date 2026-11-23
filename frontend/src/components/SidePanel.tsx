@@ -56,7 +56,7 @@ export default function SidePanel({
         <SpotLogo />
         <div className="min-w-0 flex-1 border-l border-slate-300 pl-3">
           <p className="truncate text-[11px] font-semibold uppercase tracking-[0.12em] text-slate-500">
-            {bezVyberu ? "Kraj" : "Obec"}
+            Vybraná oblast
           </p>
           <h2 className="truncate text-xl font-semibold leading-tight tracking-tight text-slate-900">
             {bezVyberu ? KRAJ.nazev : (obec?.nazev ?? "…")}
@@ -91,7 +91,7 @@ export default function SidePanel({
           <dl className="grid grid-cols-2 border border-slate-200">
             {[
               ["Počet obyvatel", v ? formatNumber(v.celkem.rok) : "—"],
-              ["Průměrný věk", v ? vekFmt.format(v.prumernyVek) : "—"],
+              ["Průměrný věk", v ? `${vekFmt.format(v.prumernyVek)} let` : "—"],
             ].map(([k, hodnota], i) => (
               <div key={k} className={`px-3 py-2 ${i ? "border-l border-slate-200" : ""}`}>
                 <dt className="text-[11px] uppercase tracking-wide text-slate-500">{k}</dt>

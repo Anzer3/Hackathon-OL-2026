@@ -138,7 +138,7 @@ export default function Home() {
   );
 
   return (
-    <main className="flex h-dvh flex-col-reverse md:flex-row">
+    <main className="flex h-dvh flex-col-reverse overflow-hidden md:flex-row">
       <aside
         className="relative h-[50dvh] w-full shrink-0 border-t border-slate-300 bg-white md:h-full md:w-[var(--panel-w)] md:border-r md:border-t-0"
         style={{ "--panel-w": `${sirkaPanelu}px` } as React.CSSProperties}
@@ -169,7 +169,7 @@ export default function Home() {
       <div className="flex min-h-0 flex-1 flex-col">
         <TopBar obce={obce} onSelect={vyber} />
         <Navigace aktivni={zalozka} onZmena={setZalozka} />
-        <div className="relative min-h-0 flex-1">
+        <div className="relative min-h-0 flex-1 overflow-hidden">
           <MapView uzemi={uzemi} onSelect={vyber} fokus={fokus} vek={vek} krajVybran={KRAJ_VYBRAN} aktivni={zalozka === "mapa"} />
           {/* Mapa zůstává načtená pod grafy, aby se po návratu nemusela znovu stavět */}
           {zalozka === "grafy" && (

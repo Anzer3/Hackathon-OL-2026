@@ -449,6 +449,7 @@ export default function MapView({
         <p className="mb-2 text-sm font-semibold text-slate-800">
           Průměrný věk{vek ? ` (${vek.rok})` : ""}
         </p>
+        <p className="-mt-1.5 mb-2 text-xs text-slate-500">v letech</p>
         <ul className="space-y-0.5">
           {VEK_STUPNE.map((s, i) => ({ s, i }))
             .reverse()
